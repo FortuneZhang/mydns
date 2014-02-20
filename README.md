@@ -17,8 +17,8 @@
 
 ##### Choose a method
 ###### download and drop it into your dnsmasq.d
-###### or `git clone git://github.com/xudejian/mydns.git dnsmasq.d`
-###### or `git submodule add git://github.com/xudejian/mydns.git dnsmasq.d`
+###### or `git clone git@github.com:FortuneZhang/mydns.git dnsmasq.d`
+###### or `git submodule add git@github.com:FortuneZhang/mydns.git dnsmasq.d`
 
 ##### Restart your dnsmasq
 
